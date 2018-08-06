@@ -3,7 +3,7 @@
 **NOTE: This plugin is currently experimental. Tested with MacOS Mojave 10.14
 using Rhino for Mac 5.4.2**
 
-Rhino script for running FSX files.
+Rhino command for running FSX files.
 
 ## Setup
 
