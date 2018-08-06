@@ -1,0 +1,74 @@
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/RunFSXScriptPlugin.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/RunFSXScriptPlugin.pdb
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/Eto.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/FSharp.Compiler.Service.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/FSharp.Core.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/Rhino.UI.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/RhinoCommon.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Runtime.InteropServices.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Runtime.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Runtime.Extensions.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Reflection.Metadata.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Collections.Immutable.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Private.CoreLib.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Security.Principal.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Private.Uri.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/FSharp.Core.xml
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/Eto.xml
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/FSharp.Compiler.Service.xml
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/RhinoCommon.xml
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Reflection.Metadata.xml
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Collections.Immutable.xml
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/cs/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/de/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/en/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/es/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/fr/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/it/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/ja/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/ko/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/pl/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/pt-BR/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/ru/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/tr/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/zh-Hans/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/zh-Hant/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/obj/Debug/RunFSXScriptPlugin.fsprojResolveAssemblyReference.cache
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/obj/Debug/RunFSXScriptPlugin.dll
+/Users/ptah/Dropbox/Daily Sketches/24/RunFSXScriptPlugin/RunFSXScriptPlugin/obj/Debug/RunFSXScriptPlugin.pdb
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/RunFSXScriptPlugin.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/Eto.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/FSharp.Compiler.Service.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/FSharp.Core.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/Rhino.UI.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/RhinoCommon.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Runtime.InteropServices.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Runtime.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Runtime.Extensions.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Reflection.Metadata.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Collections.Immutable.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Private.CoreLib.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Private.Uri.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Security.Principal.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/FSharp.Core.xml
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/Eto.xml
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/FSharp.Compiler.Service.xml
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/RhinoCommon.xml
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Reflection.Metadata.xml
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/System.Collections.Immutable.xml
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/cs/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/de/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/en/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/es/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/fr/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/it/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/ja/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/ko/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/pl/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/pt-BR/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/ru/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/tr/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/zh-Hans/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/bin/Debug/zh-Hant/FSharp.Core.resources.dll
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/obj/Debug/RunFSXScriptPlugin.fsprojResolveAssemblyReference.cache
+/Users/ptah/Dropbox/Code/RunFSXScriptPlugin/RunFSXScriptPlugin/obj/Debug/RunFSXScriptPlugin.dll
